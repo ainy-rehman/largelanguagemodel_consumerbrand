@@ -1,4 +1,3 @@
-# largelanguagemodel_consumerbrand
 LARGE LANGUAGE MODEL:
       A large language model (LLM) is a deep learning algorithm that can perform a variety of natural language processing (NLP) tasks. Large language models use transformer models and are trained using massive datasets — hence, large. This enables them to recognize, translate, predict, or generate text or other content. Large language models are also referred to as neural networks (NNs), which are computing systems inspired by the human brain. These neural networks work using a network of nodes that are layered, much like neurons. LLM consists of several steps so explaining my work in using these steps.
 
@@ -25,3 +24,5 @@ Fine Tuning the Model:
 
 Evaluation:
      For evaluation, I created a testing suite to check how well the model performs. I use specific questions as prompts to see if the model can generate accurate and relevant responses. This approach helps me assess the model's quality and identify any areas that may need improvement. The goal is to ensure the model works effectively in various scenarios.
+
+#largelanguagemodel_consumerbrand #llm #langaugemodel 
